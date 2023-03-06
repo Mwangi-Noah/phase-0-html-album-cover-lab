@@ -26,22 +26,22 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 10.00em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.7em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: .010em;
   margin-bottom: 2px;
 }
 
 h3 {
   font-weight: normal;
-  letter-spacing: .3em;
+  letter-spacing: .03em;
   margin-bottom: 18px;
   line-height: 1em;
 }
@@ -55,17 +55,17 @@ h4 {
 }
 
 p {
-  font-size: .9em;
+  font-size: .80em;
   line-height: 1.8em;
-  letter-spacing: .103em;
+  letter-spacing: .075em;
   margin-bottom: 15px;
 }
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: .75em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .22em;
   vertical-align: top;
   padding-top: 10px;
 }
@@ -104,7 +104,7 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 265px;
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
